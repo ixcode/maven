@@ -7,5 +7,6 @@
 
     <modules>
         <module>poms/super</module>
+        <module>poms/dropwizard</module>
     </modules>
 </project>
