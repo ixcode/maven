@@ -6,6 +6,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>poms/base</module>
+        <module>poms/super</module>
     </modules>
 </project>

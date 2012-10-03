@@ -730,6 +730,11 @@
         <option value="$PROJECT_DIR$/../../pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../poms/super/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
@@ -875,7 +880,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aggregate.iml" filepath="$PROJECT_DIR$/aggregate.iml" />
-      <module fileurl="file://$PROJECT_DIR$/base-pom.iml" filepath="$PROJECT_DIR$/base-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super-pom.iml" filepath="$PROJECT_DIR$/super-pom.iml" />
     </modules>
   </component>
   <component name="ProjectResources">
