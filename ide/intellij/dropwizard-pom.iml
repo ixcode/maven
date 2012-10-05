@@ -53,6 +53,7 @@
     <orderEntry type="library" name="Maven: com.github.spullara.mustache.java:compiler:0.8.4" level="project" />
     <orderEntry type="library" name="Maven: com.yammer.dropwizard:dropwizard-auth:0.5.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit-dep:4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.easytesting:fest-assert:1.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.easytesting:fest-util:1.1.6" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-core:1.9.0" level="project" />
