@@ -28,6 +28,7 @@
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
     <file url="file://$PROJECT_DIR$/../../poms/dropwizard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../poms/library" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../poms/super" charset="UTF-8" />
   </component>
   <component name="IdProvider" IDEtalkID="965F466FEA998184BA19F39C4FEBD8DC" />
@@ -881,6 +882,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aggregate.iml" filepath="$PROJECT_DIR$/aggregate.iml" />
       <module fileurl="file://$PROJECT_DIR$/dropwizard-pom.iml" filepath="$PROJECT_DIR$/dropwizard-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$//library-pom.iml" filepath="$PROJECT_DIR$//library-pom.iml" />
       <module fileurl="file://$PROJECT_DIR$/super-pom.iml" filepath="$PROJECT_DIR$/super-pom.iml" />
     </modules>
   </component>
@@ -1284,6 +1286,17 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: log4j:log4j:1.2.16">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.maven.doxia:doxia-core:1.1.2">
